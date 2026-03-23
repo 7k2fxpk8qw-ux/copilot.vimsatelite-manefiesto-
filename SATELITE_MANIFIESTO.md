@@ -20,4 +20,4 @@ Este manifiesto resume cómo abordamos el trabajo relacionado con nuestro satél
 - Realizar revisiones cruzadas de cambios que afecten subsistemas críticos.
 - Actualizar esta guía cuando los aprendizajes lo requieran.
 
-Este documento es el punto de partida para cualquier trabajo de **Satélite manifiesto** dentro del repositorio. Mantengámoslo vivo y útil.
+Este documento es el punto de partida para cualquier trabajo descrito en este **manifiesto del satélite** dentro del repositorio. Mantengámoslo vivo y útil.
