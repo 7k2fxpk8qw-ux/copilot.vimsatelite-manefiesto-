@@ -2,7 +2,7 @@
 
 > El nombre del archivo mantiene "Satelite" sin acento para alinearse con el encargo original y facilitar su uso en sistemas de archivos.
 
-Este manifiesto resume cómo abordamos el trabajo relacionado con nuestro satélite, desde la planificación hasta la operación diaria. Sirve como recordatorio rápido y compartible dentro del equipo.
+Este manifiesto resume cómo abordamos el trabajo relacionado con nuestro satélite, desde la planificación hasta la operación diaria. Sirve como referencia rápida y compartible para el equipo.
 
 ## Propósito
 - Orientar cada tarea hacia la misión científica y operativa del satélite.
